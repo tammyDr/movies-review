@@ -1,0 +1,53 @@
+
+.header{
+    background-color: rgb(36, 16, 81);
+    color: white;
+   text-align: center;
+    padding: 3px;
+    
+   }
+   .arshman{
+      background-color: blue;
+
+   }
+   h1{
+    margin: 0;
+   }
+   .main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 14px;
+    align-items: center;
+    height: 90vh;
+
+   }
+
+
+.heading{
+
+    color: black;
+ font-size: xx-large;
+ font-size: 80px;
+ margin: 10px;
+}
+
+   .movie{
+        color: black;
+        background-color: rgb(199, 197, 197);
+        text-align: center;
+        border: 1px solid rgb(48, 48, 48);
+        padding: 3px;
+        
+   }
+ 
+
+   .btn{
+    background-color: blue;
+    color:aliceblue;
+    padding: 5px;
+    margin: 5px;
+
+
+   }
